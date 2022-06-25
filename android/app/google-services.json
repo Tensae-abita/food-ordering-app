@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "752673505229",
+    "project_id": "fewwa-ffb21",
+    "storage_bucket": "fewwa-ffb21.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:752673505229:android:f465207285cee28606ce84",
+        "android_client_info": {
+          "package_name": "com.tensae_abita.food"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "752673505229-61ce8a5qer3j0q0kl4u364td7gnpepim.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgnXTpFmrJ6O716PILlivea5A-Jsrj4Bc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "752673505229-61ce8a5qer3j0q0kl4u364td7gnpepim.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
